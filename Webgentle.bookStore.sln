@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webgentle.bookStore", "Webgentle.bookStore\Webgentle.bookStore.csproj", "{43F63FF7-F52C-49FA-AEC5-D1F7DAA66576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F63FF7-F52C-49FA-AEC5-D1F7DAA66576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F63FF7-F52C-49FA-AEC5-D1F7DAA66576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F63FF7-F52C-49FA-AEC5-D1F7DAA66576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F63FF7-F52C-49FA-AEC5-D1F7DAA66576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
