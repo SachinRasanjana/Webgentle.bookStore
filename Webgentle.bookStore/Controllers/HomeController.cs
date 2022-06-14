@@ -4,9 +4,14 @@ namespace Webgentle.bookStore.Controllers
 {
     public class HomeController : Controller
     {
-        public string Index()
+        public ViewResult  Index()
         {
-            return "This String is coming from index index controller";
+            return View();
+        }
+        
+        public ViewResult  About()
+        {
+            return View();
         }
     }
 }

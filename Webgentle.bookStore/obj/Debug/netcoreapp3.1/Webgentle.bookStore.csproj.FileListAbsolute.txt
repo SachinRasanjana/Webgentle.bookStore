@@ -18,3 +18,14 @@ C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\n
 C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Webgentle.bookStore.dll
 C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Webgentle.bookStore.pdb
 C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Webgentle.bookStore.genruntimeconfig.cache
+C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Webgentle.bookStore.RazorAssemblyInfo.cache
+C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Webgentle.bookStore.RazorAssemblyInfo.cs
+C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Webgentle.bookStore.TagHelpers.input.cache
+C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Webgentle.bookStore.TagHelpers.output.cache
+C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Webgentle.bookStore.RazorCoreGenerate.cache
+C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Webgentle.bookStore.RazorTargetAssemblyInfo.cs
+C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\bin\Debug\netcoreapp3.1\Webgentle.bookStore.Views.dll
+C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\bin\Debug\netcoreapp3.1\Webgentle.bookStore.Views.pdb
+C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Webgentle.bookStore.Views.pdb
+C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Webgentle.bookStore.csproj.CopyComplete
