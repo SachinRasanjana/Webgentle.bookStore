@@ -1,4 +1,5 @@
-﻿@{
+﻿@using Microsoft.AspNetCore.Server.Kestrel.Core
+@{
     Layout = null;
 }
 
@@ -10,7 +11,119 @@
 </head>
 <body>
 <div>
-      <h1>Hello from book Store</h1>
+    <div>
+        <img src="~/images/background.jpg" alt="">
+    </div>
+    <div>
+        <h3>------------------------------------------------------------------------------------------------</h3>
+    </div>
+    <div>
+        <h1>Hello from book Store</h1>
+    </div>
+    <div>
+        <h3>------------------------------------------------------------------------------------------------</h3>
+    </div>
+    <div>
+        <h1>Multiline C# Code on thw web page</h1>
+        @{
+            var a = 10;
+        }
+
+        <h3>@@{<br> var a = 10;<br>}</h3>
+    </div>
+    <div>
+        <h3>------------------------------------------------------------------------------------------------</h3>
+    </div>
+    <div>
+        <h1>Example for Displaying C# functions like Datetime().</h1>
+        <h2>The date and time is @DateTime.Now</h2>
+        <h3>&lt;h2&gt;The date and time is @@DateTime.Now&lt;/h2&gt;</h3>
+    </div>
+    <div>
+        <h3>------------------------------------------------------------------------------------------------</h3>
+    </div>
+    <div>
+        <h1>Basic All Logic in C#</h1>
+        <h2>The Sum of 4 + 4 is :- @(4 + 4)</h2>
+        <h3>The Sum of 4 + 4 is :- @@(4 + 4)</h3>
+    </div>
+    <div>
+        <h3>------------------------------------------------------------------------------------------------</h3>
+    </div>
+    <div>
+        <h1>Example for Escape Sequence</h1>
+        <h2>@@Twitter</h2>
+        <h2>we have to use two @@@@ marks to escape sequenceTwitter</h2>
+    </div>
+    <div>
+        <h3>------------------------------------------------------------------------------------------------</h3>
+    </div>
+    <div>
+        @if (a > 5)
+        {
+            <h2> If Condition Executed</h2>
+        }
+        else if (a == 5)
+        {
+            <h2> Else if Condition Executed</h2>
+        }
+        else
+        {
+            <h2> Else Condition Executed</h2>
+        }
+    </div>
+    <div>
+        <h3>------------------------------------------------------------------------------------------------</h3>
+    </div>
+    <div>
+        @{
+            @switch (a)
+            {
+                case 1:
+                    <h2>Case one Executed</h2>
+                    break;
+                case 2:
+                    <h2>Case two Executed</h2>
+                    break;
+                case 3:
+                    <h2>Case three Executed</h2>
+                    break;
+                case 4:
+                    <h2>Case four Executed</h2>
+                    break;
+                case 9:
+                    <h2>Case nine Executed</h2>
+                    break;
+                default:
+                    <h2>Case Default Executed</h2>
+                    break;
+            }
+        }
+    </div>
+    <div>
+        <h3>------------------------------------------------------------------------------------------------</h3>
+    </div>
+    <div>
+        @for (int i = 0; i < 10; i++)
+        {
+            <h2> For Loop Excuted @i times. </h2>
+        }
+    </div>
+    <div>
+        <h3>------------------------------------------------------------------------------------------------</h3>
+    </div>
+    <div>
+        @{
+            var list1 = new List<int>() { 1, 2, 3, 4, 5 };
+
+            foreach (var item in list1)
+            {
+                <h2>Item number @item</h2>
+            }
+
+
+        }
+    </div>
 </div>
 </body>
 </html>

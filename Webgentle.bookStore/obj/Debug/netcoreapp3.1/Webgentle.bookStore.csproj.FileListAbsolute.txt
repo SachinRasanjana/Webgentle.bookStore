@@ -29,3 +29,6 @@ C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\bin\Debug\n
 C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\bin\Debug\netcoreapp3.1\Webgentle.bookStore.Views.pdb
 C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Webgentle.bookStore.Views.pdb
 C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Webgentle.bookStore.csproj.CopyComplete
+C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetAllBooks.cshtml.g.cs
+C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Sachi\RiderProjects\Webgentle.bookStore\Webgentle.bookStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ContactUs.cshtml.g.cs

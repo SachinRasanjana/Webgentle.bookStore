@@ -48,6 +48,8 @@ namespace Webgentle.bookStore
                 await next();
             });*/
 
+            app.UseStaticFiles();
+
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>

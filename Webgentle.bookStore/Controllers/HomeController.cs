@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Webgentle.bookStore.Controllers
 {
@@ -10,6 +11,11 @@ namespace Webgentle.bookStore.Controllers
         }
         
         public ViewResult  About()
+        {
+            return View();
+        }
+        
+        public ViewResult  ContactUs()
         {
             return View();
         }
