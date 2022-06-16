@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug",
+    "\\Models",
+    "\\obj",
+    "\\Properties",
+    "\\Repositorys",
+    "\\Views",
+    "\\Views\\Home",
+    "\\wwwroot",
+    "\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\Models\\BookModel.cs",
+  "PreviewInSolutionExplorer": false
+}
