@@ -13,12 +13,12 @@ namespace Webgentle.bookStore.Repositorys
             return DataSource();
         }
 
-        public BookModel GetBookId(int id)
+        public BookModel GetBookWithId(int id)
         {
             return DataSource().FirstOrDefault(x => x.Id == id);
         }
 
-        public List<BookModel> SearchBook(string bookAuthor, string bookName)
+        public List<BookModel> GetBookWithName(string bookAuthor, string bookName)
         {
             return DataSource().Where(x => x.Title.Equals(bookName,StringComparison.OrdinalIgnoreCase) || x.Author.Equals(bookAuthor,StringComparison.OrdinalIgnoreCase)).ToList();
         }

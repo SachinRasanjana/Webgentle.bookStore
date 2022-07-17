@@ -7,7 +7,7 @@ namespace Webgentle.bookStore.Controllers
 {
     public class BookController : Controller
     {
-        private readonly BookRepsitory _bookRepository = null;
+        private readonly BookRepsitory _bookRepository;
 
         public BookController()
         {
@@ -22,12 +22,12 @@ namespace Webgentle.bookStore.Controllers
 
         public BookModel GetBookWithId(int id)
         {
-            return _bookRepository.GetBookId(id);
+            return _bookRepository.GetBookWithId(id);
         }
 
         public List<BookModel> GetBookWithName(string bookAuthor, string bookName)
         {
-            return _bookRepository.SearchBook(bookAuthor, bookName);
+            return _bookRepository.GetBookWithName(bookAuthor, bookName);
         }
     }
 }
